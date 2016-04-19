@@ -19,7 +19,7 @@ GitHub repositories and easy pip install names:
 | Old Library Name | New Library Location | New `pip install` Package Name | Notes |
 |------------------|----------------------|--------------------------------|-------|
 | Adafruit_ADS1x15 | https://github.com/adafruit/Adafruit_Python_ADS1X15 | adafruit-ads1x15 | [See guide](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters). |
-| Adafruit_ADXL345 | https://github.com/adafruit/Adafruit_Python_ADXL345 | adafriot-adxl345 | TBD |
+| Adafruit_ADXL345 | https://github.com/adafruit/Adafruit_Python_ADXL345 | adafriut-adxl345 | TBD |
 | Adafruit_BMP085 | https://github.com/adafruit/Adafruit_Python_BMP | adafruit-bmp | [See guide](https://learn.adafruit.com/using-the-bmp085-with-raspberry-pi/using-the-adafruit-bmp085-python-library). |
 | Adafruit_CharLCD | https://github.com/adafruit/Adafruit_Python_CharLCD | adafruit-charlcd | [See new character LCD guide](https://learn.adafruit.com/character-lcd-with-raspberry-pi-or-beaglebone-black/overview). |
 | Adafruit_CharLCDPlate | https://github.com/adafruit/Adafruit_Python_CharLCD | adafruit-charlcd | [See new character LCD guide](https://learn.adafruit.com/character-lcd-with-raspberry-pi-or-beaglebone-black/overview). |
